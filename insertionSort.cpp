@@ -48,7 +48,7 @@ void arrayPrint(int *arr, int length) {
 
 /* -------------------------- main -------------------------- */
 /*  Main routine for experimenting with mergeSort. Try it 
-    with n = one billion for fun.                             */
+    with n = 10000 for fun.                                   */
 
 int main () {
     int i, n;
